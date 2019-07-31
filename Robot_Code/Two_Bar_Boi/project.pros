@@ -251,8 +251,8 @@
         "upload_options": {
             "compress_bin": true,
             "description": "Some_PID_Stuff",
-            "remote_name": "Hybridized_PID_Felix_Claw",
-            "slot": 8
+            "remote_name": "Two_Bar_Arcade",
+            "slot": 3
         }
     }
 }
